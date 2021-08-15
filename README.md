@@ -2,7 +2,6 @@
 
 Skills: 💻 Angular / .Net Core / Html / Css / Js
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java Spring Boot and Flutter 
 - 📫 How to reach me: ilkerylmaz.y@gmail.com 
 
